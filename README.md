@@ -1,1 +1,1 @@
-![Resume Screenshot](/resume_preview.pdf)
+![Resume Screenshot](/resume_preview.png)
